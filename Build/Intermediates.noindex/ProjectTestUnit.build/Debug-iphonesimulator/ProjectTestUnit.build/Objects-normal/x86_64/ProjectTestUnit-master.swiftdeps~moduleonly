@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "a094b6edf4bfc1ad0851869afb35c884"
+build_time: [1614597708, 801345000]
+inputs:
+  "/Users/nadiamettioui/Documents/Swift/ProjectTestUnit/ProjectTestUnit/ViewController.swift": [1614597703, 289037386]
+  "/Users/nadiamettioui/Documents/Swift/ProjectTestUnit/ProjectTestUnit/AppDelegate.swift": [1614597703, 273202097]
+  "/Users/nadiamettioui/Documents/Swift/ProjectTestUnit/ProjectTestUnit/SceneDelegate.swift": [1614597703, 283587598]
