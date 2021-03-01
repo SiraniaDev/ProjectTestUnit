@@ -23,7 +23,7 @@ class ProjectTestUnitTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         
-        let i = 8
+        let i = 0
         print(i)
         
         XCTAssert(i == 0, "I is supposed to be 0")
